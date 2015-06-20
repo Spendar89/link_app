@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 0.0-3211
+{:use-macros nil, :excludes #{}, :name link-app.db, :imports nil, :requires nil, :uses nil, :defs {default-db {:meta {:end-column 16, :end-line 3, :column 6, :line 3, :file "/Users/jakesendar/link_app/src/cljs/link_app/db.cljs"}, :file "src/cljs/link_app/db.cljs", :line 3, :column 1, :end-line 3, :end-column 16, :test true, :name link-app.db/default-db}}, :require-macros nil, :cljs.analyzer/constants {:order [:name :links :link-id :id :url], :seen #{:name :link-id :id :url :links}}, :doc nil}
