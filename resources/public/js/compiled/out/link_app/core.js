@@ -19,4 +19,4 @@ return link_app.core.mount_app_layout.call(null);
 });
 goog.exportSymbol('link_app.core.init', link_app.core.init);
 
-//# sourceMappingURL=core.js.map?rel=1434777151887
+//# sourceMappingURL=core.js.map?rel=1435004891160

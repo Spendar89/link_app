@@ -1033,3 +1033,19 @@ notifying browser that file changed:  /link_app/views.js
 [0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
 [32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.083 seconds.[0m
 notifying browser that file changed:  /link_app/views.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.151 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  /link_app/pages/links.js
+notifying browser that file changed:  /link_app/subs.js
+notifying browser that file changed:  /link_app/routes.js
+notifying browser that file changed:  /link_app/db.js
+notifying browser that file changed:  /link_app/views.js
+notifying browser that file changed:  /link_app/handlers.js
+notifying browser that file changed:  /link_app/core.js
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.116 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  /link_app/core.js
